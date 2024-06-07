@@ -1,0 +1,12 @@
+[
+    {"id":1,"name":"Rolex Submariner","price":18000},
+    {"id":2,"name":"Omega Speedmaster","price":5000},
+    {"id":3,"name":"Tag Heuer Carrera","price":3000},
+    {"id":4,"name":"Seiko Presage","price":500},
+    {"id":5,"name":"Casio G-Shock","price":1100},
+    {"id":6,"name":"Tissot T-Touch","price":1500},
+    {"id":7,"name":"Bulova Precisionist","price":2400},
+    {"id":8,"name":"Citizen Eco-Drive","price":1300},
+    {"id":9,"name":"Timex Weekender","price":4550},
+    {"id":10,"name":"Fossil Gen 5 Smartwatch","price":2250}
+]
